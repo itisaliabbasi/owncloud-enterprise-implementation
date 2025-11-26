@@ -1,10 +1,4 @@
 # OwnCloud Enterprise Implementation – Project Documentation
-
-
-
-
-
-
 This repository contains a production‑ready OwnCloud deployment designed for enterprise environments. The setup includes:
 ---
 - Dockerized OwnCloud 10.x
